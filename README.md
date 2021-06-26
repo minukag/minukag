@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello there 👋
+
+##### Software Developer (Student)
+
+##### Interests:
+- 🧩 Python
 
 <!--
 **minukag/minukag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
