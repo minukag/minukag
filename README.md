@@ -2,8 +2,8 @@
 
 ##### I'm Minukag, a student interested in Software Development
 
-#### Interests:
-- 🧩 Python
+#### I mainly use:
+- 🧩 `Python`
 
 <!--
 **minukag/minukag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
