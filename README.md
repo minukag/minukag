@@ -1,7 +1,5 @@
 ### Hello there 👋
-
 ##### I'm Minukag, a student interested in Software Development
-
 #### I mainly use:
 - 🧩 `Python`
 
