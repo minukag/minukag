@@ -1,8 +1,8 @@
 ### Hello there 👋
 
-##### Software Developer (Student)
+##### I'm Minukag, Student interested in Software Development
 
-##### Interests:
+###### Interests:
 - 🧩 Python
 
 <!--
