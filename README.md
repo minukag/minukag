@@ -3,7 +3,7 @@
 ##### I'm Minukag, a student interested in Software Development
 
 #### I use:
-![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![image](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg)
 
 <!--
 **minukag/minukag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
