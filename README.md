@@ -2,7 +2,7 @@
 
 ##### I'm Minukag, a student interested in Software Development
 
-#### I mainly use:
+#### I use:
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <!--
