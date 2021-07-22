@@ -1,10 +1,13 @@
-### Hello there 👋
+### Hello World 👋
 
 ##### I'm Minukag, a student interested in Software Development
 
 #### I use:
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <!--<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>-->
+
+### Currently Working On:
+- Nothing???
 
 <!--
 **minukag/minukag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
