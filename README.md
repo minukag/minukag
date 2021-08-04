@@ -2,10 +2,14 @@
 
 I'm Minukag and I'm interested in Software Development
 
-#### What I use:
+### What I use
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+
+### Stats
+![minukag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minukag&show_icons=true&theme=tokyonight)
 
 <!--<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>-->
 
