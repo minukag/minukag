@@ -2,31 +2,16 @@
 
 I'm Minukag and I'm interested in Software Development
 
-### What I use
+### What I Use
 ##### Languages
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ##### Software
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+## Currently Working On
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minukag&repo=minukag)](https://github.com/anuraghazra/github-readme-stats)
 
-### Stats
+### My Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=minukag&show_icons=true&theme=tokyonight&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minukag&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>-->
-
-<!--
-**minukag/minukag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
