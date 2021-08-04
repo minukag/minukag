@@ -11,7 +11,7 @@ I'm Minukag and I'm interested in Software Development
 
 
 ### Stats
-![minukag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minukag&show_icons=true&theme=tokyonight&hide_border=true)
+![minukag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minukag&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,issues,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minukag&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>-->
