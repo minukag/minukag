@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-I'm Minukag, a Software Developer
+I'm Minuka Gunawansa, a student and an aspiring software engineer
 
 ## What I Use
 ##### Languages
